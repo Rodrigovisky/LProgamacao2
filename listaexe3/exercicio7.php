@@ -25,7 +25,7 @@
                 $n1 = $_POST['valor1'];
                 while($n1 )
                 {               
-                    echo " numeros:  $i";
+                    echo " s:  $i";
                 }
             }
             
